@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+baseURL = "https://unrequiredmusic.github.io"
+title = "Unrequired-music"
 theme = "somrat"
 # post pagination
 paginate = "6"
